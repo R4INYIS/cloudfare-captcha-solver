@@ -35,8 +35,8 @@ pip install selenium undetected-chromedriver
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/your-username/cloudflare-turnstile-automation/
-cd cloudflare-turnstile-automation
+git clone https://github.com/R4INYIS/cloudflare-captcha-solver/
+cd cloudflare-captcha-solver
 ```
 
 2. **Edit the script (optional):**
